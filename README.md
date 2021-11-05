@@ -12,6 +12,7 @@ If you want to build the site from source:
 git clone https://github.com/Theory-of-Everything/ricing-rocks
 cd ricing-rocks
 ```
+all build files will be placed in `build/` in the repo root.
 
 - Build site from source files:
 ```bash
