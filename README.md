@@ -20,7 +20,7 @@ make			# generate html files from source tree
 ```
 - Other make subcommands
 ```
-make clean		# clean al existing build files
+make clean		# clean all existing build files
 make test		# open current build in default web browser
-make sync		# sync local changes with remote server
+make sync		# sync local changes in build/ with remote server
 ```
