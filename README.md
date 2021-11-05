@@ -16,8 +16,7 @@ all build files will be placed in `build/` in the repo root.
 
 - Build site from source files:
 ```bash
-# generate html files from source tree
-make
+make			# generate html files from source tree
 ```
 - Other make subcommands
 ```
