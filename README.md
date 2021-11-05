@@ -1,9 +1,9 @@
 # ricing-rocks
 
 ricing-rocks is a small website and personal project to bring better accessibility and resources
-to help get beginners into ricin on Unix-based and Unix-like operating systems.
+to help get beginners into ricing on Unix-based and Unix-like operating systems.
 
-## Builing
+## Building
 ricing-rocks uses pandoc, markdown, and gnu make to generate pages.
 If you want to build the site from source:
 
