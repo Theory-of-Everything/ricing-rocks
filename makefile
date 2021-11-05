@@ -11,8 +11,8 @@ BUILD_DIR   := build/
 BUILD_OPTS	:= +fenced_divs+link_attributes+raw_attribute+grid_tables
 
 # host for uploading/syncing changes with remote server
-UPLOAD_HOST := root@theoryware.net
-UPLOAD_PATH := /var/www/theoryware/
+UPLOAD_HOST := user@host
+UPLOAD_PATH := /path/to/src
 
 # all source files
 MD_FILES    := $(shell find $(MD_DIR) -type f -name "*.md")
