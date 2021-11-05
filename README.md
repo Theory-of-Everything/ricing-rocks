@@ -1,0 +1,26 @@
+# ricing-rocks
+
+ricing-rocks is a small website and personal project to bring better accessibility and resources
+to help get beginners into ricin on Unix-based and Unix-like operating systems.
+
+## Builing
+ricing-rocks uses pandoc, markdown, and gnu make to generate pages.
+If you want to build the site from source:
+
+- Clone the repo
+```bash
+git clone https://github.com/Theory-of-Everything/ricing-rocks
+cd ricing-rocks
+```
+
+- Build site from source files:
+```bash
+# generate html files from source tree
+make
+```
+- Other make subcommands
+```
+make clean		# clean al existing build files
+make test		# open current build in default web browser
+make sync		# sync local changes with remote server
+```
